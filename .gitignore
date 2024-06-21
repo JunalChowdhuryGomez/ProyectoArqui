@@ -6,7 +6,7 @@
 #Archivos del proyecto innecesarios
 *.jpg
 *.xml
-*.mp4
+
 user_files/
 # User-specific files
 *.rsuser
